@@ -1,0 +1,1 @@
+{"meta": {"sunpy": "0.5.0"}, "sections": {"Light Curves": [{"notebook": "GOES_lightcurve", "link_name": "GOES Light Curves"}], "Maps": [{"notebook": "aia_plot", "link_name": "AIA Plotting"}, {"notebook": "aiaprep_demonstration", "link_name": "Rotating and Aligining Maps"}]}}
